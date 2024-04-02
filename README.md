@@ -1,16 +1,14 @@
-### Hi there 👋
+**Welcome** 👋, here I document my quest to:
+- Automate my life and all of the devices around me
+- Have a convenient interface to everything I would want
+- Improve my decision-making by augmenting it with software and AI
+- Log and reflect on everything that happens with me, my devices, and the environment around me
 
-<!--
-**yep-dev/yep-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graph of apps I set up to accomplish this:
+![arch](https://github.com/yep-dev/yep-dev/assets/69042276/7e8efbaa-406f-4f15-a19f-af93d48823e5)
 
-Here are some ideas to get you started:
+**[ha-react-dashboard](https://github.com/yep-dev/ha-react-dashboard)** – custom UI I wrote in React to Home Assistant and other services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[signifier](https://github.com/yep-dev/signifier)** – Django app loading saved articles and highlights for organization/rating/tagging and TTS conversion
+
+**[appdaemon](https://github.com/yep-dev/appdaemon)** – HA automation engine in Python with my heavy customizations for ease of use and some of my automation code
